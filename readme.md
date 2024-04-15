@@ -1,5 +1,7 @@
-## quick test for graph for pyg
+# quick test for graph for pyg
+
 ## Data
+
 **Align data with the following:**
 + x: `torch.tensor` and **normalization**
 + edge_index: `torch.tensor` **[2, K]**
